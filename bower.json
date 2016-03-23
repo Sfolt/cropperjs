@@ -1,5 +1,5 @@
 {
-  "name": "cropperjs",
+  "name": "sfolt-cropperjs",
   "description": "JavaScript image cropper.",
   "main": [
     "dist/cropper.js",
